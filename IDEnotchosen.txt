@@ -1,0 +1,1 @@
+I decided not to use Intellij IDEA for this course as I'm not familiar nore comfortable with it. I'm sure I could learn but would like to keep everything under one IDE for futrure purposes if possible. 
