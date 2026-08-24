@@ -1,0 +1,1 @@
+I chose visual studio code as my IDE for this class because I'm alrady comfortable and familiar with it.  I've used it for prior classes and projects so I would rather keep using VSC which already had Git and Github support.  
